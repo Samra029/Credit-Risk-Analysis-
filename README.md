@@ -5,7 +5,6 @@
 ### 📌 Objective  
 This project focuses on building a machine learning model to evaluate the **creditworthiness** of customers using the "Give Me Some Credit" dataset. It aims to help financial institutions **reduce loan default rates** by identifying and flagging **high-risk individuals**.
 
----
 
 ### 🔍 Overview of Implementation
 
@@ -36,7 +35,6 @@ This notebook performs the following steps:
      - Confusion matrix
      - ROC Curve and AUC score
 
----
 
 ###  Results & Outcome  
 - **Random Forest Accuracy:** `86.39%`
@@ -47,7 +45,6 @@ This notebook performs the following steps:
 
 📊 The system provides a reliable method to flag potentially risky loan applicants and can be integrated into a credit evaluation pipeline to **reduce default rates** effectively.
 
----
 
 ### 🛠️ Tech Stack  
 - Python (Pandas, NumPy, Scikit-learn, XGBoost)  
